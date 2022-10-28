@@ -5,5 +5,7 @@
 
 > ...
 
-vi <nome do script>
+vi "<' nome do script' >"
+
+' /* comentario postgss */ '
   
