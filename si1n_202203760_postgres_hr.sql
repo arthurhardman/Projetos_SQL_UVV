@@ -155,7 +155,7 @@ CREATE TABLE IF NOT EXISTS hr.historico_cargos
     data_final date NOT NULL,
     id_cargo character varying(10) COLLATE pg_catalog."default" NOT NULL,
     id_departamentos integer,
-    CONSTRAINT id_empregado_data_inicial_pk PRIMARY KEY (id_empregado_1, data_inicial)
+    CONSTRAINT id_empregado_data_inicial_pk PRIMARY KEY id_empregado_1
 );
 
 ALTER TABLE IF EXISTS hr.historico_cargos
