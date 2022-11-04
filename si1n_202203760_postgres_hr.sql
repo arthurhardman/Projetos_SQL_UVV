@@ -189,9 +189,7 @@ INSERT INTO hr.paises (id_pais, nome, id_regiao) VALUES
 ('IL', 'Israel', 4),
 ('IN', 'India', 3),
 ('IT', 'Italy', 1),
-('JP', 'Japan', 3);
-
-INSERT INTO hr.paises (id_pais, nome, id_regiao) VALUES
+('JP', 'Japan', 3),
 ('KW', 'Kuwait', 4),
 ('ML', 'Malaysia', 3),
 ('MX', 'Mexico', 2),
