@@ -21,6 +21,11 @@
   Neste o objetivo era realizar com o mesmo êxito o SCRIPT mas que fosse executado no SGBD (Sistema de Gerenciamento de Banco de Dados) do MARIADB.
   Como no POSTGRES já estava pronto, foi mais simples para finalizar esse SCRIPT somente alterando as opções necessárias.
   
+ * Orientações: 
+ 
+ Foi usado uma máquina virtual disponibilizada pelo professor para execução, para executar o ** Modelo Lógico ** usamos o SQL Power Architect, 
+ já para a utilização dos ** SGBD ** usamos para executar o próprio terminal dentro de usuários já criados dentro da máquina virtual.
+  
   
 
 
