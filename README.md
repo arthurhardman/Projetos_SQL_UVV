@@ -1,8 +1,5 @@
-## EXPLICAÇÃO SOBRE O PROJETO:
-* O objetivo principal era que os alunos tivessem a experiência de criar um banco de dados desde o ínicio e tivessem conhecimento sobre o GIT e GITHUB 
- para que em futuros projetos conseguissem cumprir o objetivo solicitado pelo professor. 
-  Uma etapa não foi solicitada que seria o modelo conceitual pois já partimos do modelo lógico, mas já iniciamos em sala para dar seguimento ao 
-  aprendizado completo referente a matéria banco de dados.
+# EXPLICAÇÃO SOBRE O PROJETO:
+## O objetivo principal era que os alunos tivessem a experiência de criar um banco de dados desde o ínicio e tivessem conhecimento sobre o GIT e GITHUB, para que em futuros projetos conseguissem cumprir o objetivo solicitado pelo professor. Uma etapa não foi solicitada que seria o modelo conceitual pois já partimos do modelo lógico, mas já iniciamos em sala para dar seguimento ao aprendizado completo referente a matéria banco de dados.
   
  * Sobre o "si1n_202203760_hr.architect":
  
