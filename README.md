@@ -23,8 +23,8 @@
   
  * Orientações: 
  
- Foi usado uma máquina virtual disponibilizada pelo professor para execução, para executar o ** Modelo Lógico ** usamos o SQL Power Architect, 
- já para a utilização dos ** SGBD ** usamos para executar o próprio terminal dentro de usuários já criados dentro da máquina virtual.
+ Foi usado uma máquina virtual disponibilizada pelo professor para execução, para executar o **Modelo Lógico** usamos o SQL Power Architect, 
+ já para a utilização dos **SGBD** usamos para executar o próprio terminal dentro de usuários já criados dentro da máquina virtual.
   
   
 
