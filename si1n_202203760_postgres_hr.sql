@@ -22,7 +22,7 @@ CREATE DATABASE uvv
 
 -- CONECTANDO AO BANCO DE DADOS UVV E AO USUÁRIO:
 
-psql postgresql://arthur_hardman@localhost:5432/uvv
+\c uvv arthur_hardman
 
 
 -- CRIANDO ESQUEMA E COLOCANDO COMO PRINCIPAL: 
