@@ -22,7 +22,7 @@ CREATE DATABASE uvv
 
 -- CONECTANDO AO BANCO DE DADOS UVV E AO USUÁRIO:
 
-\c uvv arthur_hardman
+\c uvv arthur_hardman;
 
 
 -- CRIANDO ESQUEMA E COLOCANDO COMO PRINCIPAL: 
