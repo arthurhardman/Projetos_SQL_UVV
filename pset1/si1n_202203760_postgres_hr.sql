@@ -21,9 +21,8 @@ CREATE DATABASE uvv
     ALLOW_CONNECTIONS = true;
 
 -- CONECTANDO AO BANCO DE DADOS UVV E AO USUÁRIO:
-\q
 
-psql uvv arthur_hardman -w
+\c uvv;
 
 
 -- CRIANDO ESQUEMA E COLOCANDO COMO PRINCIPAL: 
