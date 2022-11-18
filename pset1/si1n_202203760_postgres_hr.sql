@@ -24,7 +24,7 @@ CREATE DATABASE uvv
 
 -- CONECTANDO AO BANCO DE DADOS UVV E AO USUÁRIO:
 
-\c "dbname=uvv user=eric password=123"
+\c "dbname=uvv user=arthur_hardman password=123"
 
 
 -- CRIANDO ESQUEMA E COLOCANDO COMO PRINCIPAL: 
